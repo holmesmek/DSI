@@ -1,0 +1,13 @@
+- NOSQL
+Data Base อยากได้รูปด้วย
+อยากได้โชว์ตัวเลขตามที่Userกำหนดไว้
+จีบ Outliner
+
+ไฟล์จากธนาคาร
+- รูปภาพกล้องวงจรปิด เพื่อนำไปใช้ในชั้นศาล (เยอะ)
+
+
+1. text to excel
+2. shearch engine งานใส่คีย์เวิร์ด (ต้อยืดหยุ่น)
+3. Data Analytics Basic ตรวจจับจำนวนของตัวเลขนั้นๆ
+4. Machineleaning Deepleaning
